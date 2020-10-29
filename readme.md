@@ -5,13 +5,11 @@ Link to repo: https://github.com/dchiev/Readme-Generator
 
 ## Description
 
-#
 
 This application provides a usable readme in whatever application your building. Just answer a few questions and the CLI will generate a readme.md, with the appropiate license, for your application. 
 
 
 ## Process 
-#
 
 1. We first select the proper requirements for inquirer, fs, and the generateMarkdown.js file. 
 
@@ -22,6 +20,5 @@ This application provides a usable readme in whatever application your building.
 4. After all the questions are answered, we run ``fs.writeFileSync`` to generate the readme.md. 
 
 ## Contact Info 
-#
 
 Contact Dan Chiev at danchiev2@grouptwo.com or visit github.com/dchiev to see more of my work.
