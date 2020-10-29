@@ -3,6 +3,8 @@
 
 Link to repo: https://github.com/dchiev/Readme-Generator
 
+Before you run the application, run ``npi install`` to install required dependencies.
+
 ## Description
 
 
